@@ -15,7 +15,6 @@ Work on the OsdagBridge design-report pipeline (`core/reports/`).
 | Change log | [Technical_Changes.md](Technical_Changes.md) |
 | Python modules | [reports/](reports/) |
 
-Add **Nidhikhare12** as a collaborator on the GitHub repository. Resume and NOC are submitted through the form (NOC may follow after selection).
 
 ## Layout
 
